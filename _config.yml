@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "CR4C - Master Universitario en Ciberseguridad Ciberterrorismo y Ciberguerra"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+#  A Jekyll theme - Medium inspired
 
 email: Cyberseguridadti@gmail.com
 #blog logo
