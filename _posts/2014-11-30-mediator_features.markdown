@@ -10,7 +10,7 @@ published: true
 ---
 #Prueba de Publicación
 
-Esta es una prueba de lso cambios de las caracteristicas medievales
+Esta es una prueba de los cambios de las caracteristicas medievales
 
 #Header Formats
 #Header1
