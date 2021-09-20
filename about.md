@@ -38,6 +38,7 @@ Miranda - Venezuela
 - Advance Cyber Threat Intelligence (Cybrary - 2020)
 - Intro to Cyber Threat Intelligence (Cybrary - 2020)
 
+![cursos y certificaciones.png]({{site.baseurl}}/cursos y certificaciones.png)
 
 
 
