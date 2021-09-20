@@ -7,21 +7,16 @@ published: true
 ## Master Universitario Di II Livelo en Ciberseguridad Ciberterrorismo y Ciberguerra
 Universidad Telematica de Pegaso
 Napoli - Italia
-
 ## Master en Ciberseguridad Ciberterrorismo y Ciberguerra
 Instituto Internacional de Seguridad Global 
 Madrid - España
-
 ## Ingeniero en Informática 
 Colegio Universitario de Caracas
 Caracas - Venezuela 
-
 ## Técnico Superior Universitario en Informatica
 Instituto Universitario de Tecnología Rufino Blanco Fombona
 Miranda - Venezuela
-
 ### Licencias y Certificaciones
-
 - Autopsy (Basis Technology - 2021)
 - Intro to DFIR: The divide and conquer Process (Basis Technology - 2021)
 - Iniciación al hacking Etico (Comunix - 2020)
@@ -37,6 +32,7 @@ Miranda - Venezuela
 - ICS2 Certified Cloud Security Professional (Cybrary - 2020)
 - Advance Cyber Threat Intelligence (Cybrary - 2020)
 - Intro to Cyber Threat Intelligence (Cybrary - 2020)
+- Master en CIbersecurity in 
 
 ![cursos y certificaciones.png]({{site.baseurl}}/cursos y certificaciones.png)
 
