@@ -21,20 +21,17 @@ Instituto Universitario de Tecnología Rufino Blanco Fombona
 Miranda - Venezuela
 
 ### Licencias y Certificaciones
-![autopsy.png]({{site.baseurl}}/autopsy.png)
+
 - Autopsy (Basis Technology - 2021)
 - Intro to DFIR: The divide and conquer Process (Basis Technology - 2021)
-
 - Iniciación al hacking Etico (Comunix - 2020)
 - Understanding Cisco Cybersecurity Operations Fundamentals (Cisco - 2020)
 - Introduccion al Analisis de malware (Miriadax - 2020)
 - Investigación en Informática forense y Ciberderecho (Miriadax - 2020)
 - Aviatrix Certified Engineer (Aviatrix - 2020)
-![nse3.png]({{site.baseurl}}/nse3.png)
 - Network Security Expert Certification NSE3 (Fortinet - 2020)
 - Certified Network Security Specialist (International Cybersecurity Institute - 2020)
 - CISM (Cybrary - 2020)
-
 - Cisco AMP for Endpoints (Cisco - 2020)
 - Implementing Automation For Cisco Security Solutions (Cisco - 2020)
 - ICS2 Certified Cloud Security Professional (Cybrary - 2020)
