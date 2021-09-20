@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mediator Features
+title: Caracteristicas Medievales
 date: {}
 categories: mediator feature
 tags: featured
