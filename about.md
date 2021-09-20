@@ -32,8 +32,10 @@ Miranda - Venezuela
 - ICS2 Certified Cloud Security Professional (Cybrary - 2020)
 - Advance Cyber Threat Intelligence (Cybrary - 2020)
 - Intro to Cyber Threat Intelligence (Cybrary - 2020)
-- Master en CIbersecurity in 
-
+- Central AMnagement (CM) Deployment - Standalone Edition (Fireeye - 2020)
+- Email Security (EX) Deployment - Standalone Edition (FIreeye -2020)
+- Network Security (NX) Deployment - Standalone (Fireeye - 2020)
+- Master in Cyber Security in 1 Bundle(EH-Academy 2019)
 ![cursos y certificaciones.png]({{site.baseurl}}/cursos y certificaciones.png)
 
 
