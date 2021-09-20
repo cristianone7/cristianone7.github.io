@@ -36,5 +36,4 @@ Miranda - Venezuela
 - ICS2 Certified Cloud Security Professional (Cybrary - 2020)
 - Advance Cyber Threat Intelligence (Cybrary - 2020)
 - Intro to Cyber Threat Intelligence (Cybrary - 2020)
-![NSE3]({{site.baseurl}}/assets/images/nse3.png)
-
+![]({{site.baseurl}}/{{site.baseurl}}/assets/images/nse3.png)
